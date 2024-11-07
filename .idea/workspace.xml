@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="558397be-9a2a-41e5-bb4a-97fc268d4fc5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2nkpfZ3zJyE7BzmgH7g2b0Yp3Cr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.MyTest.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.BasicLocator.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BrowserManage.BrowserNavigate.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BrowserManage.WindowHandle.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BrowserManage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DiffTypeWait.WaiTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DiffTypeWait.WaiTestWithSoftAssertion.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DiffTypeWait.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DropAndAlert.HandleDropDown.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DropAndAlert.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HandleAlert.AlertHandle.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HoverTest.MouseHover.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.InteractWithElement.HideShowElement.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.InteractWithElement.MouseHover.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.InteractWithElement.RadioTestElement.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.InteractWithElement.TextReadTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.InteractWithElement.WriteTextTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.InteractWithElement.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LocatorBasic.LogoTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LocatorBasic.TestElement1.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LocatorBasic.TestElement3.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LocatorBasic.TestElement4.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LocatorBasic.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.MyTest.TestPageTitle2.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.MyTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestIframe.IframeTestingWithScroll.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestIframe.MouseHover.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestIframe.executor&quot;: &quot;Run&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Rahul Personal/Web Automation/course project/WebAutomationB26And27&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.InteractWithElement">
+    <configuration name="BrowserManage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationProject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.BrowserManage" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BrowserManage.WindowHandle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationProject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.BrowserManage" />
+      <option name="METHOD_NAME" value="WindowHandle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InteractWithElement" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationProject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.InteractWithElement" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InteractWithElement.RadioTestElement" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationProject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.InteractWithElement" />
+      <option name="METHOD_NAME" value="RadioTestElement" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocatorBasic" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationProject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.LocatorBasic" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.InteractWithElement" />
+        <item itemvalue="TestNG.BrowserManage.WindowHandle" />
+        <item itemvalue="TestNG.BrowserManage" />
+        <item itemvalue="TestNG.LocatorBasic" />
+        <item itemvalue="TestNG.InteractWithElement.RadioTestElement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="558397be-9a2a-41e5-bb4a-97fc268d4fc5" name="Changes" comment="" />
+      <created>1729527031523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729527031523</updated>
+    </task>
+    <servers />
+  </component>
+</project>
