@@ -28,8 +28,8 @@ public class BrowserSetup {
     }
 
     // This Code is Used for Chaldal Website Testing
-    @BeforeClass
+    /*@BeforeClass
     public void LoadBrowser(){
         browser.get("https://chaldal.com/");
-    }
+    }*/
 }

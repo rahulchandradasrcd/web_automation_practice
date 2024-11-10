@@ -42,6 +42,5 @@ public class TestIframe extends BrowserSetup{
         browser.navigate().refresh();
         Thread.sleep(2000);
 
-
     }
 }
